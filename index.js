@@ -19,7 +19,7 @@ app.get('/', function(req, res){
 app.get('/events', function(req, res){
 		app.locals.json = events;
 
-	  res.render("categories"); 
+	  render("categories"); 
 });
 
 
@@ -52,6 +52,6 @@ app.get('/*',function(req, res){
 
 app.set("view engine", "ejs");
 
-app.listen(3000, function(){
-	console.log("Started at 3000");
+app.listen(80, function(){
+	console.log("Started at 80");
 })
