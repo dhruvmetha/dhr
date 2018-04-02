@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Events</title>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="../categories/css/style.css">
+</head>
+<body>
+
+<% Object.keys(json).forEach(function(category){ %>
+  <figure class="snip1543" >
+  <img src="<%= json[category].img %>" alt="" />
+  <figcaption>
+    <h3><%= json[category].name %></h3>
+    <p><%= json[category].desc %></p>
+  </figcaption>
+  <a href="/events/<%= category %>"></a>
+</figure>
+<% }) %>
+
+
+</body>
+<script type="text/javascript">
+	/* Demo purposes only */
+$(".hover").mouseleave(
+  function() {
+    $(this).removeClass("hover");
+  }
+);
+</script>
+</html>

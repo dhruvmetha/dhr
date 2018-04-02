@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>BMSCE UTSAV EVENTS</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Roboto:400,500,900,700,100italic,300italic,400italic,500italic,700italic,900italic,300,100''>
+
+      <link rel="stylesheet" href="../events-categories/css/style.css">
+
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style type="text/css">
+    body{
+        /*background: url("../img/pockback.jpg");*/
+        background-color: brown;
+
+      }
+  </style>
+</head>
+
+
+<body>
+<div class="container" style="padding: 0px;">
+  <%var i = 0;Object.keys(json).forEach(function(category){ if(i==0){i++;%>
+<div class = "row">
+<%}i++;%>
+<div class="col-sm-4">
+<div class="tile"> 
+  <a href="/events/<%= category %>" style="color : white;
+  text-decoration: none;">
+    <img src='<%= json[category].img %>'>
+    <div class="text">
+
+      <h1>Gibber</h1>
+      <h2 class="animate-text" ><%= json[category].name %></h2>
+    </div>
+  </a>
+ </div>
+ </div>
+<%if(i==4){i=0;%>
+</div>
+<%}});%>
+</div>
+
+
+
+  
+  
+
+    <script  src="../event-categories/js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

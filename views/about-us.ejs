@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Utsav - About Us</title>
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="../about-us/css/styles-merged.css">
+    <link rel="stylesheet" href="../about-us/css/style.min.css">
+    <link rel="stylesheet" href="../about-us/css/custom.css">
+    
+    <script src="../about-us/js/scripts.min.js"></script>
+    <script src="../about-us/js/main.min.js"></script>
+    <script src="../about-us/js/custom.js"></script>
+
+
+  </head>
+  <body>
+
+    <div class="probootstrap-search" id="probootstrap-search">
+      <a href="#" class="probootstrap-close js-probootstrap-close"><i class="icon-cross"></i></a>
+      <form action="#">
+        <input type="search" name="s" id="search" placeholder="Search a keyword and hit enter...">
+      </form>
+    </div>
+    
+    <div class="probootstrap-page-wrapper">
+    
+      <section class="probootstrap-section">
+        <div class="container">
+          <div class="row text text-center">
+             <div class="col-md-12 col-sm-12">
+            <h2>Faculty Core Committee</h2>
+             </div>
+          </div>
+          <div class="row">
+              <div class="col-md-4"></div>
+              <div class="col-md-4">
+              <div class="probootstrap-teacher text-center probootstrap-animate">
+                <figure class="media">
+                  <img src="https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%2012.03.32%20PM.jpeg?alt=media&token=19c3979c-2136-43c0-b4c0-3daf4c280c4c" alt="" class="img-responsive">
+                </figure>
+                <div class="text">
+                  <h2>Dr K Mallikharjuna Babu</h2>
+                  <p>Principal and Honorary Chairman</p>
+                 
+                </div>
+              </div>
+            </div>
+            </div>
+              <div class="col-md-3"></div>
+          </div>
+          <% var i =0; faculty.forEach(function(person){ if(i==0){%><div class="row"><% i++;} %>
+              <div class="col-md-3">
+              <div class="probootstrap-teacher text-center probootstrap-animate">
+                <figure class="media">
+                  <img src="<%= person.img%>" alt="" class="img-responsive">
+                </figure>
+                <div class="text">
+                  <h2><%= person.name %></h2>
+                  <p><%= person.desc %></p>
+                 
+                </div>
+              </div>
+            </div>
+
+
+
+        <% if(i==4){i=0;%></div> <%}}); %>
+
+
+
+
+
+
+
+
+
+          
+
+        </div>
+      </section>
+      </div>
+	  
+	  
+	  
+	      <div class="probootstrap-page-wrapper">
+    
+      <section class="probootstrap-section">
+        <div class="container">
+          <div class="row text text-center">
+          	 <div class="col-md-12 col-sm-12">
+          	<h2>Student Core Committee</h2>
+             </div>
+         </div>
+          <% var i =0; core.forEach(function(person){ if(i==0){%><div class="row"><% i++; } %>
+              <div class="col-md-3">
+              <div class="probootstrap-teacher text-center probootstrap-animate">
+                <figure class="media">
+                  <img src="<%= person.img%>" alt="" class="img-responsive">
+                </figure>
+                <div class="text">
+                  <h3><%= person.name %></h3>
+                  <p><h3>Contact : <%= person.number %></h3></p>
+                 
+                </div>
+              </div>
+            </div>
+
+
+
+        <% if(i==4){i=0;%></div> <%}}); %>
+
+
+        </div>
+      </section>
+      </div>
+    <!-- END wrapper -->
+    
+
+
+  </body>
+</html>
