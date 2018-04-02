@@ -83,7 +83,6 @@ nav::before {
   left: 0;
   z-index: -1;
   width: 25em;
-  background: #ffb445;
   content: '';
   transform: skewX(15deg) translateX(-100%);
   transform-origin: bottom left;
@@ -92,8 +91,7 @@ nav::before {
 
 
 
-  background-image:url(https://user-images.githubusercontent.com/11242541/38048438-00dc5f46-32e3-11e8-90e5-b6802a55a64a.jpg);
-  background-blend-mode: multiply;
+  background-image:url(https://user-images.githubusercontent.com/11242541/38202594-e5f3cd42-36b9-11e8-9f09-631153d0072c.jpg);
      background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -237,9 +235,9 @@ body {
   /*background:#A62A2A;*/
     /*border-top-right-radius: 100%;*/
       height: 100%;
-  background-color: #A62A2A;
-  background-image:url(https://user-images.githubusercontent.com/11242541/38048438-00dc5f46-32e3-11e8-90e5-b6802a55a64a.jpg);
-  background-blend-mode: multiply;
+
+  background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
+
   /*background-position: left bottom;*/
   /*background-repeat: no-repeat;*/
   /*background-size: cover;*/
@@ -247,9 +245,16 @@ body {
   font: 1em/1.4 "lato";
      background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 
+}
+html{
+  height: 100%;
 }
 
 
