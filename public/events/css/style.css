@@ -230,33 +230,19 @@ main .content {
   width: 1px;
 }
 /* misc */
+
+
 body {
-  /*overflow-x: hidden;*/
-  /*background:#A62A2A;*/
-    /*border-top-right-radius: 100%;*/
       height: 100%;
-
   background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
-
-  /*background-position: left bottom;*/
-  /*background-repeat: no-repeat;*/
-  /*background-size: cover;*/
   color: white;
   font: 1em/1.4 "lato";
-     background-position: center;
+     background-position:top;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-      -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-size: cover;
 
 
 }
-html{
-  height: 100%;
-}
-
 
 main {
   /*background: #A62A2A;*/

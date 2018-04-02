@@ -156,7 +156,10 @@ body {
   transform: translatex(-140px);
   animation: 18s linear 0s infinite move;
 }
-
+.more{
+    background: #A62A2A;
+  color: #ffb445;
+}
 @keyframes move {
   0% {
     transform: translatex(-140px);
@@ -305,14 +308,25 @@ body {
      </ul>
 
 <% } %>
+<% if(event.link){ %>
 
-<a href="#" class="button instagram"><span class="gradient"></span><strong>Register</strong></a>
+<a href="<%= event.link %>" class="button instagram"><span class="gradient"></span><strong>Register</strong></a>
+
+
+<% }else{ %>
+
+
+<a href="" class="button instagram"><span class="gradient"></span><strong>Registrations Opening Soon</strong></a>
+
+
+<% } %>
+
 <% if(events.length>1){ %>
 
 
 <% var c = category.indexOf("Events")!==-1?category:category + " Events"; %>
 
-<a href="#" onclick="openBar()" class="button instagram"><span class="gradient"></span><strong>More <%= c %></strong></a>
+<a href="#" onclick="openBar()" class="button instagram more"><span class="gradient"></span><strong>More <%= c %></strong></a>
 <% } %>
 
     </article>
