@@ -15,10 +15,51 @@
     <script src="../about-us/js/scripts.min.js"></script>
     <script src="../about-us/js/main.min.js"></script>
     <script src="../about-us/js/custom.js"></script>
+    <style type="text/css">
+      
+      .navbar{
+        border-radius: 0px;
+        background-color: brown;
+        color: white
+        padding:0px;
+        margin-bottom: 0px
+      }
+
+      a{
+        font-weight: 500;
+        cursor : pointer;
+        color: white;
+        text-decoration: none;
+        padding : 10px 10px 10px 10px;
+      }
+
+      a:hover{
+        background-color: white;
+        color: brown
+      }
+body {
+      height: 100%;
+  background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
+  color: white;
+
+     background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+    </style>
 
 
   </head>
   <body>
+
+      <div class="navbar fixed-top ">
+        <div class="navbar-brand">
+        <a href="/">Back to Home</a></div>
+      </div>
+
 
     <div class="probootstrap-search" id="probootstrap-search">
       <a href="#" class="probootstrap-close js-probootstrap-close"><i class="icon-cross"></i></a>
@@ -84,16 +125,16 @@
         </div>
       </section>
       </div>
-	  
-	  
-	  
-	      <div class="probootstrap-page-wrapper">
+    
+    
+    
+        <div class="probootstrap-page-wrapper">
     
       <section class="probootstrap-section">
         <div class="container">
           <div class="row text text-center">
-          	 <div class="col-md-12 col-sm-12">
-          	<h2>Student Core Committee</h2>
+             <div class="col-md-12 col-sm-12">
+            <h2>Student Core Committee</h2>
              </div>
          </div>
           <% var i =0; core.forEach(function(person){ if(i==0){%><div class="row"><% i++; } %>

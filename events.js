@@ -23,7 +23,7 @@ module.exports = {
       "link": "",
       "rnr": ["Sheets will be provided.", "Any medium if paints may be used, which needs to be carried by the participant.", "Time limit: 1.5hours.", "Theme shall be announced on spot.", "No use of any gadgets or the internet."],
       "desc": "",
-      "name": "50 shades of 90's(Sketching) "
+      "name": "50 shades of 90's(Sketching)"
     }, {
       "fee": ["₹100"],
       "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
@@ -34,7 +34,7 @@ module.exports = {
       "link": "",
       "rnr": ["Any medium if paints and or makeup may be used, which needs to be carried by the participant.", "Time limit: 1.5hours.", "Theme shall be announced on spot.", "No use of any gadgets or the internet."],
       "desc": "",
-      "name": "Face off (Face painting) "
+      "name": "Face off (Face painting)"
     }, {
       "fee": ["₹50"],
       "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
@@ -147,7 +147,7 @@ module.exports = {
       "link": "",
       "rnr": ["The participants will be given a maximum of 1 minute’s time to showcase their moves.", "The best will be selected for the final rounds by the judge.", "The number of battles will be decided depending on the number of participants.", "Props are allowed (any kind of fluid, heavy objects or flame are not permitted).", "Any kind of obscenity will lead to disqualification."],
       "desc": "",
-      "name": "Turtle Jam (ONE0ON0ONE)"
+      "name": "Turtle Jam (ONE-ON-ONE)"
     }, {
       "fee": ["₹750"],
       "prize": ["First Prize ₹15000", "Second Prize ₹7000"],
@@ -158,7 +158,7 @@ module.exports = {
       "link": "",
       "rnr": ["The participants will be given a maximum of 2 minutes time to showcase their moves.", "The best will be selected for the final rounds by the judge.", "The number of battles will be decided depending on the number of participants.", "Props are allowed (any kind of fluid, heavy objects or flame are not permitted).", "Any kind of obscenity will lead to disqualification."],
       "desc": "",
-      "name": "Turtle Jam (TWO0ON0TWO)"
+      "name": "Turtle Jam (TWO-ON-TWO)"
     }, {
       "fee": ["₹750"],
       "prize": ["First Prize ₹25000", "Second Prize ₹15000"],
@@ -169,7 +169,7 @@ module.exports = {
       "link": "",
       "rnr": ["Competition consists of two rounds of Bboy battle.", "Round 1: Choreography.", "Round 2: Crew vs. Crew battle.", "Time limit for Round 1 is 5+2 minutes.", "The best crews will be selected for Round 2.", "Team limit is a maximum of 12 members.", "Music should be on a CD or a pen drive.", "Music should be submitted one hour prior to the event.", "Judges’ decision is final."],
       "desc": "",
-      "name": "Turtle Jam (CREW0ON0CREW)"
+      "name": "Turtle Jam (CREW-ON-CREW)"
     }],
     "img": "https://media1.fdncms.com/indyweek/imager/dendy-dancetheater-performs-at-duke-june-21andndash23/u/magnum/1483955/dendy_bysaraddavis.jpg",
     "name": "Dance"
@@ -289,7 +289,7 @@ module.exports = {
       "link": "",
       "rnr": ["Symposium is open for all Photography Enthusiasts.", "No Camera needed at the event."],
       "desc": "",
-      "name": "Photo Stage 2018 0 A Photography Symposium "
+      "name": "Photo Stage 2018 - A Photography Symposium "
     }, {
       "fee": ["₹50"],
       "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
@@ -300,7 +300,7 @@ module.exports = {
       "link": "",
       "rnr": ["The contest is open to all students.", "The Theme will be given on the spot.", "The participant must declare the camera(s) being used.", "Only basic editing is allowed.", "Original Images may be asked in the final round.", "The images entered must be taken within the college , on the day of the contest.", "The entries must adhere to the contest theme.", "Only two entries per participant.", "The decision of the judges will be final.", "Photos should be mailed to bmsphotographyclub@gmail.com , details should include Name, College Name, Contact Number, Email, Caption , Short Description."],
       "desc": "",
-      "name": "Panorama 2018 0 Onspot Photography Contest "
+      "name": "Panorama 2018 - Onspot Photography Contest "
     }],
     "img": "https://user-images.githubusercontent.com/32911377/38106589-14130914-33ad-11e8-9bf4-4530503029f8.jpg",
     "name": "Photography"
@@ -318,7 +318,7 @@ module.exports = {
       "link": "",
       "rnr": ["The contest is open to all students.", "The Theme will be given on the spot.", "The participant must declare the camera(s) being used.", "Only basic editing is allowed.", "Original Images may be asked in the final round.", "The images entered must be taken within the college , on the day of the contest.", "The entries must adhere to the contest theme.", "Only two entries per participant.", "The decision of the judges will be final.", "Photos should be mailed to bmsphotographyclub@gmail.com , details should include Name, College Name, Contact Number, Email, Caption , Short Description."],
       "desc": "",
-      "name": "Creative Writing "
+      "name": "Creative Writing"
     }, {
       "fee": ["₹100"],
       "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
@@ -351,7 +351,7 @@ module.exports = {
       "link": "",
       "rnr": ["Round 1’s just got 1 rule, stick to the character you picked out of a bowl, references would be appreciated.", "All other rules don’t apply here.", "The JAM master is God. No questions or arguments once the final decision has been made.", "To object, slam the table and say “JAM”.", "The JAM master decides when you are allowed to put forth your objection.", "You get a penalty if the competition objects on any of the following counts:.", "You object out of turn.", "You stutter, stammer, and generally indulge in “time-wasting tactics”.", "These include efforts to buy time like interspersing your talk with “uhh”, “aah” etc… .", "Early start and late start.", "Speaking too fast or too slow.", "Grammatical errors.", "Undue stress on words, undue emphasis in the sentences.", "Repetition of a previously used idea.", "Not following the “random rules” as set by the JAM master.", "The total time is sixty seconds, inclusive of all the time that all the speakers in a given round are allowed to speak.", "Points are given in the following manner:.", "Positive points for every second that you speak.", "Positive points for every correct objection.", "Negative points for every incorrect objection.", "The winner is the person with the maximum number of points at the end of the round."],
       "desc": "",
-      "name": "JAM (Just0A0Minute)"
+      "name": "JAM (Just-A-Minute)"
     }, {
       "fee": ["₹200"],
       "prize": ["First Prize ₹3000", "Second Prize ₹1500"],
@@ -555,7 +555,7 @@ module.exports = {
       "link": "",
       "rnr": ["All the teams should send a small video comprising of choreography and costumes before 12 pm on 10th april.", "Number of participants 10+4.", "Open theme.", "Duration: 9+2 minutes.", "Music is to be submitted on a pen-drive in mp3 format.", "Two minutes for the stage setup.", "Judges decision is final.", "Participants are supposed to report 3 hours before the show.", "No fire or animals allowed.", "Slots for the fashion show are on the basis of chit system.", "Participants must send pictures and videos on or before 28th March 2018."],
       "desc": "",
-      "name": "Fashion show"
+      "name": "Fashion Show"
     }],
     "img": "https://i.ytimg.com/vi/OCSp2RMHbes/maxresdefault.jpg",
     "name": "Fashion"
@@ -668,7 +668,7 @@ module.exports = {
         "link": "",
         "rnr": [],
         "desc": "",
-        "name": "Laser Tag "
+        "name": "Laser Tag"
       },
       {
         "fee": ["₹150"],

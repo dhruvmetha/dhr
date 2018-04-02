@@ -1,14 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Events</title>
-	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events</title>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
   <link rel="stylesheet" type="text/css" href="../categories/css/style.css">
+  <link href="../home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="../home/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <!-- Custom styles for this template -->
+    <link href="../home/css/agency.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.materialdesignicons.com/2.1.99/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/css/swiper.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="../home/carousal/css/style.css">
+
+    <style type="text/css">
+  
+  
+  .ml-auto{
+    margin: auto!important;
+  }
+
+  #mainNav{
+    /*background: linear-gradient(to right, brown, black);*/
+    background:#A62A2A;
+  }
+  #mainFig{
+    padding-top: 65px;
+  }
+
+  @media (min-width: 700px){
+    #mainFig{
+      padding-top: 100px;
+    }
+  }
+
+body {
+      height: 100%;
+  background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
+     background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+  </style>
 </head>
 <body>
 
+
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger visi" href="#page-top">BMSCE UTSAV</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/about-us">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/schedule">Schedule</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+<div class="text-center" id = "mainFig">
 <% Object.keys(json).forEach(function(category){ %>
   <figure class="snip1543" >
   <img src="<%= json[category].img %>" alt="" />
@@ -18,16 +92,36 @@
   </figcaption>
   <a href="/events/<%= category %>"></a>
 </figure>
-<% }) %>
+<% }); %>
+</div>
 
 
 </body>
 <script type="text/javascript">
-	/* Demo purposes only */
+  /* Demo purposes only */
 $(".hover").mouseleave(
   function() {
     $(this).removeClass("hover");
   }
 );
 </script>
+
+<script src="../home/vendor/jquery/jquery.min.js"></script>
+    <script src="../home/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../home/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="../home/js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="../home/js/agency.min.js"></script>
+    <script src="../home/js/countdown.js"></script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js'></script>
+    <script  src="../home/carousal/js/index.js"></script>
 </html>
