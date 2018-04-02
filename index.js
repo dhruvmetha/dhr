@@ -19,7 +19,7 @@ app.get('/', function(req, res){
 app.get('/events', function(req, res){
 		app.locals.json = events;
 
-	  render("categories"); 
+	  res.render("categories"); 
 });
 
 
