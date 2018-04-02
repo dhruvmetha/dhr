@@ -3,8 +3,8 @@ module.exports = {
     "desc": "",
     "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8N8qoInkqSrbCQkBh43JCWzsN8xyL7X50HIh3Q92YiehRMEos",
     "events": [{
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1500"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Sneha Ak", "8884926668"]
@@ -14,8 +14,8 @@ module.exports = {
       "desc": "",
       "name": "Dexter's Canvas(Painting)"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1500"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Shivani Bonageri", "8197699196"]
@@ -25,8 +25,8 @@ module.exports = {
       "desc": "",
       "name": "50 shades of 90's(Sketching) "
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Nnamya Malhotra", "9739678806"]
@@ -36,8 +36,8 @@ module.exports = {
       "desc": "",
       "name": "Face off (Face painting) "
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Namitha Susan Moses", "7406729899"]
@@ -54,8 +54,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["150.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Job Joseph", "7259680730"]
@@ -65,8 +65,8 @@ module.exports = {
       "desc": "",
       "name": "Arbit Quiz"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Suhas G Pai", "8618747959"]
@@ -76,8 +76,8 @@ module.exports = {
       "desc": "",
       "name": "General Quiz"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Ashwin Srinivas", "9945527530"]
@@ -87,8 +87,8 @@ module.exports = {
       "desc": "",
       "name": "India Quiz "
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Rahul Shanbhag", "7829076699"]
@@ -105,8 +105,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["800.0"],
-      "prize": ["First 12000", "Second 8000"],
+      "fee": ["₹800"],
+      "prize": ["First Prize ₹12000", "Second Prize ₹8000"],
       "img": "",
       "contacts": [
         ["Sonal", "7760122382"]
@@ -116,8 +116,8 @@ module.exports = {
       "desc": "",
       "name": "Western Group Dance"
     }, {
-      "fee": ["800.0"],
-      "prize": ["First 12000", "Second 8000"],
+      "fee": ["₹800"],
+      "prize": ["First Prize ₹12000", "Second Prize ₹8000"],
       "img": "",
       "contacts": [
         ["Yoshita S", "9986822075"]
@@ -127,8 +127,8 @@ module.exports = {
       "desc": "",
       "name": "Eastern Group Dance"
     }, {
-      "fee": ["200.0"],
-      "prize": ["First 5000", "Second 3000"],
+      "fee": ["₹200"],
+      "prize": ["First Prize ₹5000", "Second Prize ₹3000"],
       "img": "",
       "contacts": [
         ["Ruchita", "7411906839"]
@@ -138,8 +138,8 @@ module.exports = {
       "desc": "",
       "name": "Solo Dance"
     }, {
-      "fee": ["500.0"],
-      "prize": ["First 4000", "Second 8000"],
+      "fee": ["₹500"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹8000"],
       "img": "",
       "contacts": [
         ["Vishruthi Acharya", "8861064899"]
@@ -149,8 +149,8 @@ module.exports = {
       "desc": "",
       "name": "Turtle Jam (ONE0ON0ONE)"
     }, {
-      "fee": ["750.0"],
-      "prize": ["First 15000", "Second 7000"],
+      "fee": ["₹750"],
+      "prize": ["First Prize ₹15000", "Second Prize ₹7000"],
       "img": "",
       "contacts": [
         ["Adhiraj Pahargarh", "8123490647"]
@@ -160,8 +160,8 @@ module.exports = {
       "desc": "",
       "name": "Turtle Jam (TWO0ON0TWO)"
     }, {
-      "fee": ["750.0"],
-      "prize": ["First 25000", "Second 15000"],
+      "fee": ["₹750"],
+      "prize": ["First Prize ₹25000", "Second Prize ₹15000"],
       "img": "",
       "contacts": [
         ["Shisha Bharadwaj", "9986930545"]
@@ -178,8 +178,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Kunal Mehta", "9739150909"]
@@ -189,8 +189,8 @@ module.exports = {
       "desc": "",
       "name": "Codathon"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Abhijith Shambu", "7411653557"]
@@ -200,8 +200,8 @@ module.exports = {
       "desc": "",
       "name": "Online Treasure Hunt"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 1500", "Second 0"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Harshit Sharma", "9718874146"]
@@ -211,8 +211,8 @@ module.exports = {
       "desc": "",
       "name": "Android App Development"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 1000", "Second 0"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Nikhil RS", "8277056746"]
@@ -222,8 +222,8 @@ module.exports = {
       "desc": "",
       "name": "Diffuse the Bomb"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1000", "Second 0"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Manoj Srinath", "9844867997"]
@@ -233,8 +233,8 @@ module.exports = {
       "desc": "",
       "name": "Stay Connected"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 500", "Second 0"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹500"],
       "img": "",
       "contacts": [
         ["Shreeprada Divakar Bhat", "9482264276"]
@@ -251,8 +251,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["800.0"],
-      "prize": ["First 12000", "Second 5000"],
+      "fee": ["₹800"],
+      "prize": ["First Prize ₹12000", "Second Prize ₹5000"],
       "img": "",
       "contacts": [
         ["Amala Lawrence", "9482516068"]
@@ -262,8 +262,8 @@ module.exports = {
       "desc": "",
       "name": "Battle of Bands"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 3000", "Second 2000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹3000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Ashmita Deb", "9916521808"]
@@ -280,7 +280,7 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["100.0"],
+      "fee": ["₹100"],
       "prize": [],
       "img": "",
       "contacts": [
@@ -291,8 +291,8 @@ module.exports = {
       "desc": "",
       "name": "Photo Stage 2018 0 A Photography Symposium "
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Aditya Belvadi", "9663110528"]
@@ -309,8 +309,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["150.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Varun Vyas Hebbalalu", "9686507522"]
@@ -320,8 +320,8 @@ module.exports = {
       "desc": "",
       "name": "Creative Writing "
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Nidhi Satish", "8296637873"]
@@ -331,8 +331,8 @@ module.exports = {
       "desc": "",
       "name": "Slam Poetry"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 1500", "Second 750"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹750"],
       "img": "",
       "contacts": [
         ["Ashmitha Nagesh", "9986733480"]
@@ -342,8 +342,8 @@ module.exports = {
       "desc": "",
       "name": "Potpourri"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Ahmad Shaikh", "9742123759"]
@@ -353,8 +353,8 @@ module.exports = {
       "desc": "",
       "name": "JAM (Just0A0Minute)"
     }, {
-      "fee": ["200.0"],
-      "prize": ["First 3000", "Second 1500"],
+      "fee": ["₹200"],
+      "prize": ["First Prize ₹3000", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Atiq", "8050907879"]
@@ -364,8 +364,8 @@ module.exports = {
       "desc": "",
       "name": "Debate"
     }, {
-      "fee": ["300.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹300"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Vinay Yadav", "9591515538"]
@@ -382,8 +382,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["50.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Disha", "9964068887"]
@@ -393,8 +393,8 @@ module.exports = {
       "desc": "",
       "name": "Infi'nite aMAZE"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1200", "Second 600"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1200", "Second Prize ₹600"],
       "img": "",
       "contacts": [
         ["Pranav", "9739748073"]
@@ -402,10 +402,10 @@ module.exports = {
       "link": "",
       "rnr": ["The player is faced against an opponent, where each of them are given 8X8 grids, 64 boxes.", "These boxes grouped together into various shapes, make ships(For example: A ship can be rectangular in shape, having a a dimension 3X1 ).", "Participants are given ships in the beginning and they can be placed anywhere, only at the beginning of the game, and cannot be moved later.", "Only the participant's board must be visible to him.", "After placing them, the participants attack the opponent's ships by guessing the position of the ship on the opponent's board, one box every turn, and the opponent mentions to participant whenever a ship has been hit.", "Once all the boxes of the ship are hit, the ship has sunk.", "Based on the opponent's reply, the participant should try to predict the position of the ships and the one who sinks the opponent's ships first, wins.", "Points are also awarded for the type and number of ships survived.", "Please read the rules, online for further queries.", "In teams of 3(Participants can come as singles and pairs, and will be grouped later to 3)."],
       "desc": "",
-      "name": "Battleship 2.0"
+      "name": "Battleship 2"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1000", "Second 500"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1000", "Second Prize ₹500"],
       "img": "",
       "contacts": [
         ["Pranav s", "9739748073"]
@@ -415,8 +415,8 @@ module.exports = {
       "desc": "",
       "name": "GamblArena of math"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1200", "Second 600"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1200", "Second Prize ₹600"],
       "img": "",
       "contacts": [
         ["Prasham Mehta", "9824208280"]
@@ -433,8 +433,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["150.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Sameer Kulkarni", "9449740213"]
@@ -444,8 +444,8 @@ module.exports = {
       "desc": "",
       "name": "Classical Vocal Solo"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 3000", "Second 2000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹3000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Rajagopalan T L", "9902830022"]
@@ -455,8 +455,8 @@ module.exports = {
       "desc": "",
       "name": "Instrumental Solo"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Nishal B", "8762425910"]
@@ -466,8 +466,8 @@ module.exports = {
       "desc": "",
       "name": "Light Vocal Solo"
     }, {
-      "fee": ["750.0"],
-      "prize": ["First 5000", "Second 2500"],
+      "fee": ["₹750"],
+      "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
       "img": "",
       "contacts": [
         ["Shreyas S", "8296837299"]
@@ -484,8 +484,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["120.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹120"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Ganesh P Patil", "8792947898"]
@@ -495,8 +495,8 @@ module.exports = {
       "desc": "",
       "name": "Anthyakshari"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1000", "Second 500"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1000", "Second Prize ₹500"],
       "img": "",
       "contacts": [
         ["Lakshmi S", "9844862120"]
@@ -506,8 +506,8 @@ module.exports = {
       "desc": "",
       "name": "Charchaspardhe"
     }, {
-      "fee": ["120.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹120"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Thanmaye", "9071962240"]
@@ -517,8 +517,8 @@ module.exports = {
       "desc": "",
       "name": "Rasaprashne"
     }, {
-      "fee": ["120.0"],
-      "prize": ["First 1500", "Second 1000"],
+      "fee": ["₹120"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Chirag Chandrashekhar", "8762294436"]
@@ -528,8 +528,8 @@ module.exports = {
       "desc": "",
       "name": "Chakravyuha"
     }, {
-      "fee": ["200.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹200"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Arpita kelsur", "9449917378"]
@@ -546,8 +546,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["2000.0"],
-      "prize": ["First 30000", "Second 15000"],
+      "fee": ["₹2000"],
+      "prize": ["First Prize ₹30000", "Second Prize ₹15000"],
       "img": "",
       "contacts": [
         ["Ashish", "8818840408"]
@@ -564,8 +564,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Rohan Mayya", "9980186150"]
@@ -575,8 +575,8 @@ module.exports = {
       "desc": "",
       "name": "Stock Market"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 3000", "Second 1500"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹3000", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Likith Jain", "7259819753"]
@@ -586,7 +586,7 @@ module.exports = {
       "desc": "",
       "name": "Treasure Hunt(Quest)"
     }, {
-      "fee": ["Free Entry"],
+      "fee": ["₹Free Entry"],
       "prize": [],
       "img": "",
       "contacts": [
@@ -597,8 +597,8 @@ module.exports = {
       "desc": "",
       "name": "Cultural Santhe"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Sharanya", "9739207066"]
@@ -608,8 +608,8 @@ module.exports = {
       "desc": "",
       "name": "Marketing Genius (We snooze you loosze (TV based))"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Anjali Kulkarni", "9742327865"]
@@ -626,8 +626,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-        "fee": ["300.0"],
-        "prize": ["First 20k worth", "Second 10k worth"],
+        "fee": ["₹300"],
+        "prize": ["First Prize ₹20k worth", "Second Prize ₹10k worth"],
         "img": "",
         "contacts": [
           ["Kiran", "9341599667"]
@@ -637,8 +637,8 @@ module.exports = {
         "desc": "",
         "name": "Counter Strike GO"
       }, {
-        "fee": ["300.0"],
-        "prize": ["First 20k worth", "Second 10k worth"],
+        "fee": ["₹300"],
+        "prize": ["First Prize ₹20k worth", "Second Prize ₹10k worth"],
         "img": "",
         "contacts": [
           ["Sri nidhi", "8892601045"]
@@ -648,8 +648,8 @@ module.exports = {
         "desc": "",
         "name": "Dota2"
       }, {
-        "fee": ["150.0"],
-        "prize": ["First 8k worth", "Second 4k worth"],
+        "fee": ["₹150"],
+        "prize": ["First Prize ₹8k worth", "Second Prize ₹4k worth"],
         "img": "",
         "contacts": [
           ["Arham", "8088191915"]
@@ -659,8 +659,8 @@ module.exports = {
         "desc": "",
         "name": "Fifa 18"
       }, {
-        "fee": ["500.0"],
-        "prize": ["First 7000", "Second 4000"],
+        "fee": ["₹500"],
+        "prize": ["First Prize ₹7000", "Second Prize ₹4000"],
         "img": "",
         "contacts": [
           ["Santhosh chaudary", "9535626385"]
@@ -671,8 +671,8 @@ module.exports = {
         "name": "Laser Tag "
       },
       {
-        "fee": ["150.0"],
-        "prize": ["First 5k worth", "Second 2k worth"],
+        "fee": ["₹150"],
+        "prize": ["First Prize ₹5k worth", "Second Prize ₹2k worth"],
         "img": "",
         "contacts": [
           ["Vinayak", "7259412248"]
@@ -688,8 +688,8 @@ module.exports = {
         "name": "AR Based Treasure Hunt"
       },
       {
-        "fee": ["50.0"],
-        "prize": ["First 2000", "Second 1000"],
+        "fee": ["₹50"],
+        "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
         "img": "",
         "contacts": [
           ["Prajwal N J", "9916483603"]
@@ -704,7 +704,7 @@ module.exports = {
         "name": "Road Rash"
       },
       {
-        "fee": ["50.0"],
+        "fee": ["₹50"],
         "prize": [],
         "img": "",
         "contacts": [
@@ -725,8 +725,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["200.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹200"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Kiran", "9632612091"]
@@ -736,7 +736,7 @@ module.exports = {
       "desc": "",
       "name": "Adrenaline Junkyard"
     }, {
-      "fee": ["80.0"],
+      "fee": ["₹80"],
       "prize": [],
       "img": "",
       "contacts": [
@@ -747,7 +747,7 @@ module.exports = {
       "desc": "",
       "name": "Flying fox(zipline)"
     }, {
-      "fee": ["50.0"],
+      "fee": ["₹50"],
       "prize": [],
       "img": "",
       "contacts": [
@@ -758,7 +758,7 @@ module.exports = {
       "desc": "",
       "name": "Rappelling"
     }, {
-      "fee": ["50.0"],
+      "fee": ["₹50"],
       "prize": [],
       "img": "",
       "contacts": [
@@ -769,8 +769,8 @@ module.exports = {
       "desc": "",
       "name": "Wall climbing(Non Competitive)"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 1200", "Second 800"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹1200", "Second Prize ₹800"],
       "img": "",
       "contacts": [
         ["Ronak", "8762354791"]
@@ -780,8 +780,8 @@ module.exports = {
       "desc": "",
       "name": "Wall Climbing(Competitve)"
     }, {
-      "fee": ["50.0"],
-      "prize": ["First 1500"],
+      "fee": ["₹50"],
+      "prize": ["First Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Rohith ", "8884258656"]
@@ -791,8 +791,8 @@ module.exports = {
       "desc": "",
       "name": "Tyroline Traversing"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 1500", "Second 500"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹1500", "Second Prize ₹500"],
       "img": "",
       "contacts": [
         ["Shashank", "8277569228"]
@@ -809,8 +809,8 @@ module.exports = {
     "desc": "",
     "link": "",
     "events": [{
-      "fee": ["500.0"],
-      "prize": ["First 5000", "Second 2500"],
+      "fee": ["₹500"],
+      "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
       "img": "",
       "contacts": [
         ["Vivek Ramaiya", "7259269757"]
@@ -820,8 +820,8 @@ module.exports = {
       "desc": "",
       "name": "Street Play (Aao Kabhi Nukkad Pe)"
     }, {
-      "fee": ["150.0"],
-      "prize": ["First 2000", "Second 1500"],
+      "fee": ["₹150"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Mandara B S", "9742647090"]
@@ -831,8 +831,8 @@ module.exports = {
       "desc": "",
       "name": "Improv (Mission Improv0able)"
     }, {
-      "fee": ["100.0"],
-      "prize": ["First 2000", "Second 1000"],
+      "fee": ["₹100"],
+      "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
       "img": "",
       "contacts": [
         ["Aditi R", "9663711884"]
@@ -842,8 +842,8 @@ module.exports = {
       "desc": "",
       "name": "Last Actor Standing (Baby got act)"
     }, {
-      "fee": ["400.0"],
-      "prize": ["First 4000", "Second 2000"],
+      "fee": ["₹400"],
+      "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
       "img": "",
       "contacts": [
         ["Sumukh Bakshi", "9164459345"]
@@ -853,8 +853,8 @@ module.exports = {
       "desc": "",
       "name": "Mad Ads (Ma0Addy Maniacs)"
     }, {
-      "fee": ["500.0"],
-      "prize": ["First 5000", "Second 2500"],
+      "fee": ["₹500"],
+      "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
       "img": "",
       "contacts": [
         ["Santhosh H M", "8748037806"]
@@ -864,8 +864,8 @@ module.exports = {
       "desc": "",
       "name": "Mime (Sound of silence)"
     }, {
-      "fee": ["250.0"],
-      "prize": ["First 2500", "Second 1500"],
+      "fee": ["₹250"],
+      "prize": ["First Prize ₹2500", "Second Prize ₹1500"],
       "img": "",
       "contacts": [
         ["Prithviraj V", "9632531175"]
@@ -883,11 +883,11 @@ module.exports = {
     "link": "",
     "events": [{
         "fee": [
-          "50.0"
+          "₹50"
         ],
         "prize": [
-          "First 1500",
-          "Second 1000"
+          "First Prize ₹1500",
+          "Second Prize ₹1000"
         ],
         "img": "",
         "contacts": [
@@ -909,11 +909,11 @@ module.exports = {
       },
       {
         "fee": [
-          "250.0"
+          "₹250"
         ],
         "prize": [
-          "First 5000",
-          "Second 2000"
+          "First Prize ₹5000",
+          "Second Prize ₹2000"
         ],
         "img": "",
         "contacts": [
@@ -934,11 +934,8 @@ module.exports = {
       },
       {
         "fee": [
-          ""
         ],
         "prize": [
-          "First ",
-          "Second "
         ],
         "img": "",
         "contacts": [
