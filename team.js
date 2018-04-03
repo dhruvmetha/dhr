@@ -17,19 +17,18 @@ module.exports = {
 			"number":"",
 			"desc":"Organising Secretary Utsav 2018",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%201.13.18%20PM.jpeg?alt=media&token=fc699763-03b9-4be1-b128-22639310cdb9"
-		}
-		,
+		},
+		{
+			"name":"Dr Ranga Swamy",
+			"number":"",
+			"desc":"Treasurer",
+			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-03%20at%204.01.52%20PM.jpeg?alt=media&token=8fce0e06-2596-4601-833c-53a2318f775c"
+		},
 		{
 			"name":"Prathima Bhat K",
 			"number":"",
 			"desc":"Treasurer",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-03%20at%204.01.51%20PM.jpeg?alt=media&token=bae2e83d-7cce-48e8-a7a2-7a3af6791bf4"
-		},
-				{
-			"name":"Dr Ranga Swamy",
-			"number":"",
-			"desc":"Treasurer",
-			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-03%20at%204.01.52%20PM.jpeg?alt=media&token=8fce0e06-2596-4601-833c-53a2318f775c"
 		}
 
 		
