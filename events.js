@@ -606,7 +606,7 @@ module.exports = {
       "link": "",
       "rnr": ["The participant who sells that product for the highest amount after following the rule , wins ."],
       "desc": "",
-      "name": "Marketing Genius (We snooze you loosze (TV based))"
+      "name": "Marketing Genius (We snooze you lose (TV based))"
     }, {
       "fee": ["₹50"],
       "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
