@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Utsav - About Us</title>
-    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700|Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="../about-us/css/styles-merged.css">
@@ -17,7 +17,7 @@
     <script src="../about-us/js/custom.js"></script>
     <style type="text/css">
       
-      .navbar{
+      .navbar2{
         border-radius: 0px;
         background-color: brown;
         color: white
@@ -43,7 +43,7 @@
   </head>
   <body>
 
-      <div class="navbar fixed-top ">
+      <div class="navbar2 fixed-top">
         <div class="navbar-brand">
         <a href="/">Back to Home</a></div>
       </div>
@@ -59,7 +59,7 @@
     <div class="probootstrap-page-wrapper">
     
       <section class="probootstrap-section">
-        <div class="container">
+        <div class="container-fluid">
           <div class="row text text-center">
              <div class="col-md-12 col-sm-12">
             <h2>Faculty Core Committee</h2>
@@ -80,13 +80,18 @@
               </div>
             </div>
             </div>
-              <div class="col-md-3"></div>
-          </div>
-          <% var i =0; faculty.forEach(function(person){ if(i==0){%><div class="row"><% i++;} %>
+             
+
+
+
+<div class="row justify-content-center">
+          <% faculty.forEach(function(person){ %>
+
+
               <div class="col-md-4">
               <div class="probootstrap-teacher text-center probootstrap-animate">
                 <figure class="media">
-                  <img src="<%= person.img%>" alt="" class="img-responsive">
+                  <img src="<%= person.img %>" alt="" class="img-responsive">
                 </figure>
                 <div class="text">
                   <h2><%= person.name %></h2>
@@ -96,9 +101,16 @@
               </div>
             </div>
 
+<% }) %>
 
 
-        <% if(i==4){i=0;%></div> <%}}); %>
+
+</div>
+
+
+
+
+          </div>
 
 
 
@@ -110,7 +122,6 @@
 
           
 
-        </div>
       </section>
       </div>
     

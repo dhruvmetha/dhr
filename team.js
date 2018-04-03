@@ -17,7 +17,8 @@ module.exports = {
 			"number":"",
 			"desc":"Organising Secretary Utsav 2018",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%201.13.18%20PM.jpeg?alt=media&token=fc699763-03b9-4be1-b128-22639310cdb9"
-		},
+		}
+		,
 		{
 			"name":"Prathima Bhat K",
 			"number":"",
