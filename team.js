@@ -54,7 +54,7 @@ module.exports = {
 			{
 			"name":"Sandeep Kumar M",
 			"number":"7795039253",
-			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.38.28%20PM.jpeg?alt=media&token=c5193aa6-7bd1-4975-9f56-7cf510459619"
+			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FIMG-20180403-WA0041.jpg?alt=media&token=56860fd1-4f38-4456-8e2a-726a42422fe3"
 			},
 			{
 			"name":"Srujan MJ",
