@@ -829,7 +829,7 @@ module.exports = {
       "link": "",
       "rnr": ["3+2 in a team.", "Topic for Round 1 will be given on spot.", "Only 2 minutes given per team to discuss.", "Each team has to perform for 3+2 minutes and all the members must be involved.", "Round 2 and Round 3 will be surprise rounds."],
       "desc": "",
-      "name": "Improv (Mission Improv0able)"
+      "name": "Improv (Mission Improv-able)"
     }, {
       "fee": ["₹100"],
       "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
@@ -851,7 +851,7 @@ module.exports = {
       "link": "",
       "rnr": ["A team should consist of 4-7 members(+1 narrator).", "Duration is 4+3 minutes (not to be exceeded).", "Props are not allowed.", "Languages allowed are english, Hindi and kannada.", "Any kind of vulgarity will lead to disqualification of the team.", "Teams should report the venue before the event starts.", "Judges' decision will be final."],
       "desc": "",
-      "name": "Mad Ads (Ma0Addy Maniacs)"
+      "name": "Mad Ads (Ma-Addy Maniacs)"
     }, {
       "fee": ["₹500"],
       "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
