@@ -16,7 +16,7 @@ app.get('/', function(req, res){
 	 res.render("index"); 
 });
 
-app.get('/events', function(req, res,){
+app.get('/events', function(req, res){
 		app.locals.json = events;
 
 	  res.render("categories"); 
