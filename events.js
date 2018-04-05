@@ -139,7 +139,7 @@ module.exports = {
       "name": "Solo Dance"
     }, {
       "fee": ["₹500"],
-      "prize": ["First Prize ₹4000", "Second Prize ₹8000"],
+      "prize": ["First Prize ₹8000", "Second Prize ₹4000"],
       "img": "",
       "contacts": [
         ["Vishruthi Acharya", "8861064899"]
