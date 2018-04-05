@@ -46,15 +46,15 @@ module.exports = {
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.15.48%20PM.jpeg?alt=media&token=38746a60-1164-44a5-ba84-86b2570b4ce0"
 			},
 			{
-			"name":"Harshith Muppiri",
-			"number":"8105554114",
-			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.16.02%20PM.jpeg?alt=media&token=a2d7980a-8e66-4c71-a025-556f1c4a02a6"
-			},
-			{
 			"name":"Gajanan Kamble",
 			"number":"8147688713",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%205.59.00%20PM.jpeg?alt=media&token=677f27fb-163e-4d14-8b7a-0ce910d0f326"
 		    },
+			{
+			"name":"Harshith Muppiri",
+			"number":"8105554114",
+			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.16.02%20PM.jpeg?alt=media&token=a2d7980a-8e66-4c71-a025-556f1c4a02a6"
+			},
 			{
 			"name":"Sandeep Kumar M",
 			"number":"7795039253",
