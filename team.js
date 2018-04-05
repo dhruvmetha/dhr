@@ -51,6 +51,11 @@ module.exports = {
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.16.02%20PM.jpeg?alt=media&token=a2d7980a-8e66-4c71-a025-556f1c4a02a6"
 			},
 			{
+			"name":"Gajanan Kamble",
+			"number":"8147688713",
+			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%205.59.00%20PM.jpeg?alt=media&token=677f27fb-163e-4d14-8b7a-0ce910d0f326"
+		    },
+			{
 			"name":"Sandeep Kumar M",
 			"number":"7795039253",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FIMG-20180403-WA0041.jpg?alt=media&token=56860fd1-4f38-4456-8e2a-726a42422fe3"
@@ -69,12 +74,8 @@ module.exports = {
 			"name":"Praveen Kumar B",
 			"number":"8095840515",
 			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FCore%2FWhatsApp%20Image%202018-03-31%20at%207.41.53%20PM.jpeg?alt=media&token=9dad9073-de41-47e5-8a7b-439e66dae7b0"
-			},
-			{
-			"name":"Gajanan Kamble",
-			"number":"8147688713",
-			"img" : "https://firebasestorage.googleapis.com/v0/b/utsavimages-32c64.appspot.com/o/Team%2FFaculty%2FWhatsApp%20Image%202018-04-01%20at%205.59.00%20PM.jpeg?alt=media&token=677f27fb-163e-4d14-8b7a-0ce910d0f326"
-		}
+			}
+			
 	]
 
 };
