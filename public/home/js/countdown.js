@@ -1,6 +1,6 @@
 
 
-    CountDownTimer('04/13/2018 10:1 AM', 'countdown');
+    CountDownTimer('04/13/2018 4:1 PM', 'countdown');
     CountDownTimer('04/16/2018 10:1 AM', 'newcountdown');
 
     function CountDownTimer(dt, id)
