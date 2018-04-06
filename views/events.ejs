@@ -308,18 +308,13 @@ body {
      </ul>
 
 <% } %>
-<% if(event.link){ %>
-
-<a href="<%= event.link %>" class="button instagram"><span class="gradient"></span><strong>Register</strong></a>
 
 
-<% }else{ %>
-
-
-<a href="" class="button instagram"><span class="gradient"></span><strong>Registrations Opening Soon</strong></a>
-
-
+<% if(event.fee[0]){ %>
+<a href="/register/<%= event.id %>" class="button instagram"><span class="gradient"></span><strong>Register</strong></a>
 <% } %>
+
+
 
 <% if(events.length>1){ %>
 

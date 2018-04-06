@@ -45,6 +45,26 @@ app.get('/about-us', function(req, res){
 	  res.render("about-us"); 
 });
 
+app.get('/register/*', function(req, res,next){
+	var flag = 0;
+	 app.locals.eid  = req.originalUrl.slice(10, req.originalUrl.length);
+	 Object.keys(events).forEach(function(key){
+  events[key].events.forEach(function(event){
+    if(app.locals.eid==event.id){
+      app.locals.ename = event.name;
+      app.locals.efee = event.fee[0];
+      flag = 1;
+    }
+  });
+});
+	 if(flag == 1){
+	 	
+	  res.render("register"); 	
+	}else{
+		next();
+	}
+	 
+});
 
 app.get('/*',function(req, res){
 	res.render("404");
@@ -52,6 +72,6 @@ app.get('/*',function(req, res){
 
 app.set("view engine", "ejs");
 
-app.listen(80, function(){
-	console.log("Started at 80");
+app.listen(3000, function(){
+	console.log("Started at 3000");
 })
