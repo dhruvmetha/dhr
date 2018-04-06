@@ -1,16 +1,27 @@
 var express = require('express');
 var http = require('http');
 var path = require('path');
+var logger = require("morgan");
 var events = require('./events');
 var team = require('./team')
 var app = express();
 
 process.env.NODE_ENV = 'production';
 
+app.use(logger("dev")); 
+
+
 app.set("views", path.resolve(__dirname, "views"));
 var publicPath = path.resolve(__dirname, "public");
 
 app.use(express.static(publicPath));
+
+
+app.use(function(request, response, next) {
+    console.log("In comes a " + request.method + " to " + request.url);
+    next();
+});
+
 
 app.get('/', function(req, res){
 	 res.render("index"); 
