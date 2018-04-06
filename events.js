@@ -204,7 +204,7 @@ module.exports = {
             "name": "Codathon",
             "id": 15
         }, {
-            "fee": ["₹100"],
+            "fee": ["₹100 for a team of two."],
             "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
             "img": "",
             "contacts": [
@@ -216,7 +216,7 @@ module.exports = {
             "name": "Online Treasure Hunt",
             "id": 16
         }, {
-            "fee": ["₹100"],
+            "fee": ["₹100 for a team of two."],
             "prize": ["First Prize ₹1500"],
             "img": "",
             "contacts": [
@@ -228,7 +228,7 @@ module.exports = {
             "name": "Android App Development",
             "id": 17
         }, {
-            "fee": ["₹150"],
+            "fee": ["₹150 for a team of two."],
             "prize": ["First Prize ₹1000"],
             "img": "",
             "contacts": [
