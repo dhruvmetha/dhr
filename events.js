@@ -972,6 +972,19 @@ module.exports = {
             "desc": "",
             "name": "Whiplash",
             "id": 72
+        }, {
+            "fee": ["₹100"],
+            "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
+            "img": "",
+            "contacts": [
+                ["Harsha", "9741149249"]
+                
+            ],
+            "link": "",
+            "rnr": [],
+            "desc": "",
+            "name": "Carrom",
+            "id": 73
         }],
         "img": "https://i.ytimg.com/vi/cVLlQpjuCns/maxresdefault.jpg",
         "name": "Informal"
