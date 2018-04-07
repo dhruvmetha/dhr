@@ -199,6 +199,7 @@ body {
 <script type="text/javascript">
 
   function openTab(evt, content_id) {
+    // alert(content_id);
     var i, tabcontent, tablinks;
 
     // Get all elements with class="tabcontent" and hide them
@@ -220,7 +221,31 @@ body {
     closeBar();
 } 
 
+window.onload = function(){
+    var hash = (window.location.hash).replace('#', '');
+    if ((hash.length == 0 || parseInt(hash)<1) || parseInt(hash)><%= events.length %>) {
 
+        //no hash do something
+    }
+    else {
+      
+        closeBar();
+         tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+        tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById('main_'+hash).style.display = "block";
+    document.getElementById('tab_'+hash).className += " active";
+
+  
+        //else do something with hash
+    }
+}
 </script>
 
 </head>
@@ -350,9 +375,20 @@ body {
   <script>
 
     $( document ).ready(function() {
-    $('#main_1').css('display', 'block');
-    $('#tab_1').addClass('active');
-    $("#navcheck").prop('checked', true);
+   
+
+     var hash = (window.location.hash).replace('#', '');
+    if ((hash.length == 0 || parseInt(hash)<1) || parseInt(hash)><%= events.length %>) {
+      console.log(parseInt(hash));
+       $('#main_1').css('display', 'block');
+       $('#tab_1').addClass('active');
+      $("#navcheck").prop('checked', true);
+}else{
+        console.log(parseInt(hash));
+
+  $("#navcheck").prop('checked', false);
+}
+    
 });
 
 
