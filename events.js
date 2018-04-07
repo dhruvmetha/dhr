@@ -51,7 +51,7 @@ module.exports = {
             "name": "Glue, paper, scissor (Quilling)",
             "id": 4
         }],
-        "img": "http://cms.indiaeve.com/images/events/Event249393911Img.jpg",
+        "img": "https://imgur.com/3xh0leT.jpg",
         "name": "Fine Arts"
     },
     "quiz-events": {
@@ -106,7 +106,7 @@ module.exports = {
             "name": "SpEnt Quiz (SciBiz quiz)",
             "id": 8
         }],
-        "img": "https://images.wallpapersden.com/image/download/rubiks-cube-minimalism_59631_1920x1080.jpg",
+        "img": "https://imgur.com/cPO1uDZ.jpg",
         "name": "Quiz Events"
     },
     "western-dance-events": {
@@ -185,7 +185,7 @@ module.exports = {
             "name": "Turtle Jam (CREW-ON-CREW)",
             "id": 14
         }],
-        "img": "https://media1.fdncms.com/indyweek/imager/dendy-dancetheater-performs-at-duke-june-21andndash23/u/magnum/1483955/dendy_bysaraddavis.jpg",
+        "img": "https://imgur.com/pLr6UkF.jpg",
         "name": "Dance"
     },
     "tech-events": {
@@ -264,7 +264,7 @@ module.exports = {
             "name": "Tech Symposium",
             "id": 20
         }],
-        "img": "https://www.dreamhost.com/blog/wp-content/uploads/2015/11/waystocode.jpeg",
+        "img": "https://imgur.com/UQKlWgi.jpg",
         "name": "Tech Events"
     },
     "western-music-events": {
@@ -295,7 +295,7 @@ module.exports = {
             "name": "Western Solo",
             "id": 22
         }],
-        "img": "https://i.ytimg.com/vi/TUT_EQ3_wUI/maxresdefault.jpg",
+        "img": "https://imgur.com/LUlmemY.jpg",
         "name": "Western Music"
     },
     "photography": {
@@ -326,7 +326,7 @@ module.exports = {
             "name": "Panorama 2018 - Onspot Photography Contest ",
             "id": 24
         }],
-        "img": "https://user-images.githubusercontent.com/32911377/38106589-14130914-33ad-11e8-9bf4-4530503029f8.jpg",
+        "img": "https://imgur.com/Q8vngIQ.jpg",
         "name": "Photography"
     },
     "literary-events": {
@@ -405,7 +405,7 @@ module.exports = {
             "name": "The Ball's in Your Court",
             "id": 30
         }],
-        "img": "https://teamsoftomorrow.com/wp-content/uploads/2017/05/20151006165136-introvert-reading-books-.jpeg",
+        "img": "https://imgur.com/Bs2SPpJ.jpg",
         "name": "Literary Events"
     },
     "math-events": {
@@ -460,7 +460,7 @@ module.exports = {
             "name": "Strategist's day out",
             "id": 34
         }],
-        "img": "https://user-images.githubusercontent.com/32911377/38105452-b3efb4ae-33a9-11e8-923a-888d7cac443d.jpg",
+        "img": "https://imgur.com/c2UNAZa.jpg",
         "name": "Math Events"
     },
     "eastern-events": {
@@ -515,7 +515,7 @@ module.exports = {
             "name": "Indian Group Music ",
             "id": 38
         }],
-        "img": "http://nevadacityyogafest.com/wp-content/uploads/2017/08/Indian-Immersion-1080x675.jpg",
+        "img": "https://imgur.com/YLk5ryK.jpg",
         "name": "Eastern Music"
     },
     "chiranthana": {
@@ -582,7 +582,7 @@ module.exports = {
             "name": "Mookabhinaya",
             "id": 43
         }],
-        "img": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/24067804_1558920567517031_8262055048430489071_n.jpg?_nc_cat=0&oh=ebb6b14162217d97a9be59e9580f0aec&oe=5B3888BB",
+        "img": "https://imgur.com/JUoqYWt.jpg",
         "name": "Chiranthana"
     },
     "fashion": {
@@ -601,7 +601,7 @@ module.exports = {
             "name": "Fashion Show",
             "id": 44
         }],
-        "img": "https://i.ytimg.com/vi/OCSp2RMHbes/maxresdefault.jpg",
+        "img": "https://imgur.com/Jw7calp.jpg",
         "name": "Fashion"
     },
     "entrepreneurship-events": {
@@ -668,7 +668,7 @@ module.exports = {
             "name": "Stress Test",
             "id": 49
         }],
-        "img": "https://assets.entrepreneur.com/content/3x2/1300/20160428183712-man-suit-entrepreneur-grooming-business-corporate-boss-leadership-confident-successful.jpeg?width=750&crop=16:9",
+        "img": "https://imgur.com/nzvwmYt.jpg",
         "name": "Entrepreneurship"
     },
     "respawn-gaming": {
@@ -759,7 +759,7 @@ module.exports = {
             "name": "VR based experience",
             "id": 56
         }],
-        "img": "https://user-images.githubusercontent.com/32911377/38105147-e0230964-33a8-11e8-8969-98a4138616e7.png",
+        "img": "https://imgur.com/TWGWwK9.jpg",
         "name": "Respawn Gaming"
     },
     "mountaineering": {
@@ -850,7 +850,7 @@ module.exports = {
             "name": "Obstacle cycling",
             "id": 63
         }],
-        "img": "https://user-images.githubusercontent.com/32911377/38105608-1e8e2c8c-33aa-11e8-9ae0-327b4d9143fd.jpg",
+        "img": "https://imgur.com/txuEC3J.jpg",
         "name": "Mountaineering"
     },
     "theatre-events": {
@@ -929,7 +929,7 @@ module.exports = {
             "name": "Short movie making (Dashakada chitra) ",
             "id": 69
         }],
-        "img": "https://www.escaperoomla.com/wp-content/uploads/2016/11/the-theatre.png",
+        "img": "https://imgur.com/59SbfVG.jpg",
         "name": "Theatre"
     },
     "informal-events": {
@@ -986,7 +986,7 @@ module.exports = {
             "name": "Carrom",
             "id": 73
         }],
-        "img": "https://i.ytimg.com/vi/cVLlQpjuCns/maxresdefault.jpg",
+        "img": "https://imgur.com/wUF56tS.jpg",
         "name": "Informal"
     }
 };
