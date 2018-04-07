@@ -106,7 +106,7 @@ module.exports = {
             "name": "SpEnt Quiz (SciBiz quiz)",
             "id": 8
         }],
-        "img": "https://imgur.com/cPO1uDZ.jpg",
+        "img": "https://imgur.com/YJEoa7P.jpg",
         "name": "Quiz Events"
     },
     "western-dance-events": {
