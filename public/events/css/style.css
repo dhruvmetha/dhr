@@ -233,17 +233,23 @@ main .content {
 
 
 body {
-      /*height: 100%;*/
-  background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
-  color: white;
+ /*height: 100%;*/
+      margin:0;  
+      color: white;
   font: 1em/1.4 "lato";
-     background-position:top;
-    background-repeat: no-repeat;
-    background-size: cover;
 
 
 }
 
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
 main {
   /*background: #A62A2A;*/
   padding: 5% 0;
