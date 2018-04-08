@@ -151,7 +151,9 @@ img::-moz-selection{
 header.masthead{
     text-align:center;
     color:#fff;
-    background-color: #fffaca;
+    /*background-color: #fffaca;*/
+    /*background: url('https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg');*/
+    background-color: white;
     background-repeat:no-repeat;
     background-attachment:scroll;
     background-position:center center;
@@ -701,7 +703,7 @@ section#soc-btn{
     background-color: #fffaca;
 }
 section#about-utsav{
-    background-color: white;
+    background-color: #fffaca;
 }
 
 section#sponsors{
