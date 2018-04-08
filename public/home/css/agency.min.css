@@ -201,6 +201,7 @@ header.masthead .intro-text .intro-heading{
     }
 
 @media (min-width:768px){
+
     .visi{ display:none;}
 	.timer {
 		padding-top: 50px;
@@ -244,6 +245,7 @@ header.masthead .intro-text .intro-heading{
 }
 
 @media (min-width:768px){
+
     header.masthead .intro-text{
         padding-top:100px;
         padding-bottom:100px
@@ -343,6 +345,7 @@ header.masthead .intro-text .intro-heading{
     z-index:2
 }
 @media (min-width:767px){
+
     #portfolio .portfolio-item{
         margin:0 0 30px
     }
@@ -507,6 +510,7 @@ header.masthead .intro-text .intro-heading{
     margin-bottom:0
 }
 @media (min-width:768px){
+
     .timeline:before{
         left:50%
     }
@@ -538,6 +542,7 @@ header.masthead .intro-text .intro-heading{
     }
 }
 @media (min-width:992px){
+
     .timeline>li{
         min-height:150px
     }
@@ -559,6 +564,7 @@ header.masthead .intro-text .intro-heading{
     }
 }
 @media (min-width:1200px){
+
     .timeline>li{
         min-height:170px
     }
@@ -718,11 +724,13 @@ footer#foot{
 }
 
 @media(min-width: 746px){
+
     .events-linker{ 
         font-size: 25px;
     }
 
 @media(min-width: 1000px){
+
     .events-linker{
        font-size: 45px;
        font-weight: 550;
