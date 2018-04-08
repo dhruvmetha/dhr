@@ -75,6 +75,6 @@ app.get('/*', function(req, res) {
 
 app.set("view engine", "ejs");
 
-app.listen(80, function() {
+app.listen(3000, function() {
     console.log("Started at 80");
 })

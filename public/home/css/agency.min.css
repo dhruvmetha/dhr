@@ -692,10 +692,16 @@ section#flagship{
 
 }
 section#gallery{
-	background-color: #fffaca
+	background-color: #fffaca;
 }
 section#past{
 	background-color: #fffaca;
+}
+section#soc-btn{
+    background-color: #fffaca;
+}
+section#about-utsav{
+    background-color: white;
 }
 
 section#sponsors{
