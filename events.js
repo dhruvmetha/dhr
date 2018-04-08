@@ -65,7 +65,7 @@ module.exports = {
                 ["Job Joseph", "7259680730"]
             ],
             "link": "",
-            "rnr": ["Written prelims will be followed by finals.", "The top 8 teams will advance to the finals.", "Use of Internet is prohibited.", "Quizmasters decision is final.", "Cross college teams are allowed."],
+            "rnr": ["Teams shall consist of max 3 people.", "Written prelims will be followed by finals.", "The top 8 teams will advance to the finals.", "Use of Internet is prohibited.", "Quizmasters decision is final.", "Cross college teams are allowed."],
             "desc": "",
             "name": "Arbit Quiz",
             "id": 5
