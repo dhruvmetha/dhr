@@ -58,14 +58,14 @@ module.exports = {
         "desc": "",
         "link": "",
         "events": [{
-            "fee": ["₹150"],
+            "fee": ["₹100 for a team of two"],
             "prize": ["First Prize ₹4000", "Second Prize ₹2000"],
             "img": "",
             "contacts": [
                 ["Job Joseph", "7259680730"]
             ],
             "link": "",
-            "rnr": ["Teams shall consist of max 3 persons.", "Written prelims will be followed by finals.", "The top 8 teams will advance to the finals.", "Use of Internet is prohibited.", "Quizmasters decision is final.", "Cross college teams are allowed."],
+            "rnr": ["Written prelims will be followed by finals.", "The top 8 teams will advance to the finals.", "Use of Internet is prohibited.", "Quizmasters decision is final.", "Cross college teams are allowed."],
             "desc": "",
             "name": "Arbit Quiz",
             "id": 5
@@ -103,7 +103,7 @@ module.exports = {
             "link": "",
             "rnr": ["Teams shall consist of max 3 persons.", "Written prelims will be followed by finals.", "The top 8 teams will advance to the finals.", "Use of Internet is prohibited.", "Quizmasters decision is final.", "Cross college teams are allowed."],
             "desc": "",
-            "name": "SpEnt Quiz (SciBiz quiz)",
+            "name": "SciBizTech Quiz",
             "id": 8
         }],
         "img": "https://imgur.com/YJEoa7P.jpg",
