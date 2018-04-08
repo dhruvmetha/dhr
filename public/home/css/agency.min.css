@@ -689,11 +689,11 @@ ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li 
 
 }
 section#flagship{
-	background-color: white;
+	background-color: #fffaca;
 
 }
 section#gallery{
-	background-color: #fffaca;
+	background-color: white; 
 }
 section#past{
 	background-color: #fffaca;
@@ -702,13 +702,15 @@ section#soc-btn{
     background-color: #fffaca;
 }
 section#about-utsav{
-    background-color: #fffaca;
+    background-color: white;
 }
 
 section#sponsors{
     background-color: white;
 }
-
+footer#foot{
+    background-color: #fffaca;
+}
 .events-linker{
     color: #fffaca; 
     font-weight: bold; 
