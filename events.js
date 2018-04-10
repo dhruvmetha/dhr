@@ -823,7 +823,7 @@ module.exports = {
             "link": "",
             "rnr": ["Helmet, mittens and harness are compulsory.", "Those with long hair need to tie it up.", "Participants need to read and sign a disclaimer form and should follow the instructions given to them."],
             "desc": "",
-            "name": "Wall Climbing (Competitve)",
+            "name": "Wall Climbing (Competitive)",
             "id": 61
         }, {
             "fee": ["₹50"],
