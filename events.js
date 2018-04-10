@@ -12,7 +12,7 @@ module.exports = {
             "link": "",
             "rnr": ["Sheets will be provided.", " Any medium if paints may be used, which needs to be carried by the participant.", "Time limit: 1.5hours.", "Theme shall be announced on spot.", "No use of any gadgets or the internet."],
             "desc": "",
-            "name": "Dexter's Canvas(Painting)",
+            "name": "Dexter's Canvas (Painting)",
             "id": 1
         }, {
             "fee": ["₹100"],
@@ -24,7 +24,7 @@ module.exports = {
             "link": "",
             "rnr": ["Sheets will be provided.", "Any medium if paints may be used, which needs to be carried by the participant.", "Time limit: 1.5hours.", "Theme shall be announced on spot.", "No use of any gadgets or the internet."],
             "desc": "",
-            "name": "50 shades of 90's(Sketching)",
+            "name": "50 shades of 90's (Sketching)",
             "id": 2
         }, {
             "fee": ["₹100"],
@@ -629,7 +629,7 @@ module.exports = {
             "link": "",
             "rnr": ["Two rounds of distributing clues to the participants which they have to solve to win the prize money."],
             "desc": "",
-            "name": "Treasure Hunt(Quest)",
+            "name": "Treasure Hunt (Quest)",
             "id": 46
         }, {
             "fee": ["₹Free Entry"],
@@ -787,7 +787,7 @@ module.exports = {
             "link": "",
             "rnr": ["Helmet, mittens and harness are compulsory.", "Those with long hair need to tie it up.", "Participants need to read and sign a disclaimer form and should follow the instructions given to them."],
             "desc": "",
-            "name": "Flying fox(zipline)",
+            "name": "Flying fox (zipline)",
             "id": 58
         }, {
             "fee": ["₹50"],
@@ -811,7 +811,7 @@ module.exports = {
             "link": "",
             "rnr": ["Helmet, mittens and harness are compulsory.", "Those with long hair need to tie it up.", "Participants need to read and sign a disclaimer form and should follow the instructions given to them."],
             "desc": "",
-            "name": "Wall climbing(Non Competitive)",
+            "name": "Wall climbing (Non Competitive)",
             "id": 60
         }, {
             "fee": ["₹100"],
@@ -823,7 +823,7 @@ module.exports = {
             "link": "",
             "rnr": ["Helmet, mittens and harness are compulsory.", "Those with long hair need to tie it up.", "Participants need to read and sign a disclaimer form and should follow the instructions given to them."],
             "desc": "",
-            "name": "Wall Climbing(Competitve)",
+            "name": "Wall Climbing (Competitve)",
             "id": 61
         }, {
             "fee": ["₹50"],
