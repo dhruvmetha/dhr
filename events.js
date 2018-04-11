@@ -192,78 +192,81 @@ module.exports = {
         "desc": "",
         "link": "",
         "events": [{
-            "fee": ["₹100"],
-            "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
-            "img": "",
-            "contacts": [
-                ["Kunal Mehta", "9739150909"]
-            ],
-            "link": "",
-            "rnr": ["There will be a set of 10 programming questions.", "Each correctly solved test case will fetch the participant some marks.", "At the end of the competition, the participants with the highest marks will be declared the winner."],
-            "desc": "",
-            "name": "Codathon",
-            "id": 15
-        }, {
-            "fee": ["₹100 for a team of two"],
-            "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
-            "img": "",
-            "contacts": [
-                ["Abhijith Shambu", "7411653557"]
-            ],
-            "link": "",
-            "rnr": ["This will be a 3 hour event.", "A team can proceed to the next question only after it has completed solving the previous question.", "They can use the internet and whatever resources available."],
-            "desc": "",
-            "name": "Online Treasure Hunt",
-            "id": 16
-        }, {
-            "fee": ["₹100 for a team of two"],
-            "prize": ["First Prize ₹1500"],
-            "img": "",
-            "contacts": [
-                ["Harshit Sharma", "9718874146"]
-            ],
-            "link": "",
-            "rnr": ["This will be a 3 hour event.", "Each team will be given a problem statement and will be asked to design a running app to solve the problem.", "The team that makes the best app will be declared as the winner."],
-            "desc": "",
-            "name": "Android App Development",
-            "id": 17
-        }/*, {
-            "fee": ["₹150 for a team of two"],
-            "prize": ["First Prize ₹1000"],
-            "img": "",
-            "contacts": [
-                ["Nikhil RS", "8277056746"]
-            ],
-            "link": "",
-            "rnr": ["Each team will be given a sensor and they will have to program it in a limited amount of time with specific conditions.", "The top four fastest teams will then be allowed to plant their portable sensor connections (bombs) within the college premises.", "Once they have places their sensors, the team members will move around trying to locate (diffuse) the sensors of other teams.", "At the end, the team left with the maximum number of sensors will be the winner."],
-            "desc": "",
-            "name": "Diffuse the Bomb",
-            "id": 18
-        }*/, {
-            "fee": ["₹50"],
-            "prize": ["First Prize ₹1000"],
-            "img": "",
-            "contacts": [
-                ["Manoj Srinath", "9844867997"]
-            ],
-            "link": "",
-            "rnr": ["Short easy quiz on networking.", "Problem to be simulated on cisco packet tracer.", "Get your best buddy with you (only 1)."],
-            "desc": "",
-            "name": "Stay Connected",
-            "id": 19
-        }, {
-            "fee": ["₹50"],
-            "prize": ["First Prize ₹500"],
-            "img": "",
-            "contacts": [
-                ["Shreeprada Divakar Bhat", "9482264276"]
-            ],
-            "link": "",
-            "rnr": ["The teams will be judged on the basis of predefined rubrics."],
-            "desc": "",
-            "name": "Tech Symposium",
-            "id": 20
-        }],
+                "fee": ["₹100"],
+                "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
+                "img": "",
+                "contacts": [
+                    ["Kunal Mehta", "9739150909"]
+                ],
+                "link": "",
+                "rnr": ["There will be a set of 10 programming questions.", "Each correctly solved test case will fetch the participant some marks.", "At the end of the competition, the participants with the highest marks will be declared the winner."],
+                "desc": "",
+                "name": "Codathon",
+                "id": 15
+            }, {
+                "fee": ["₹100 for a team of two"],
+                "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
+                "img": "",
+                "contacts": [
+                    ["Abhijith Shambu", "7411653557"]
+                ],
+                "link": "",
+                "rnr": ["This will be a 3 hour event.", "A team can proceed to the next question only after it has completed solving the previous question.", "They can use the internet and whatever resources available."],
+                "desc": "",
+                "name": "Online Treasure Hunt",
+                "id": 16
+            }, {
+                "fee": ["₹100 for a team of two"],
+                "prize": ["First Prize ₹1500"],
+                "img": "",
+                "contacts": [
+                    ["Harshit Sharma", "9718874146"]
+                ],
+                "link": "",
+                "rnr": ["This will be a 3 hour event.", "Each team will be given a problem statement and will be asked to design a running app to solve the problem.", "The team that makes the best app will be declared as the winner."],
+                "desc": "",
+                "name": "Android App Development",
+                "id": 17
+            }
+            /*, {
+                        "fee": ["₹150 for a team of two"],
+                        "prize": ["First Prize ₹1000"],
+                        "img": "",
+                        "contacts": [
+                            ["Nikhil RS", "8277056746"]
+                        ],
+                        "link": "",
+                        "rnr": ["Each team will be given a sensor and they will have to program it in a limited amount of time with specific conditions.", "The top four fastest teams will then be allowed to plant their portable sensor connections (bombs) within the college premises.", "Once they have places their sensors, the team members will move around trying to locate (diffuse) the sensors of other teams.", "At the end, the team left with the maximum number of sensors will be the winner."],
+                        "desc": "",
+                        "name": "Diffuse the Bomb",
+                        "id": 18
+                    }*/
+            , {
+                "fee": ["₹50"],
+                "prize": ["First Prize ₹1000"],
+                "img": "",
+                "contacts": [
+                    ["Manoj Srinath", "9844867997"]
+                ],
+                "link": "",
+                "rnr": ["Short easy quiz on networking.", "Problem to be simulated on cisco packet tracer.", "Get your best buddy with you (only 1)."],
+                "desc": "",
+                "name": "Stay Connected",
+                "id": 19
+            }, {
+                "fee": ["₹50"],
+                "prize": ["First Prize ₹500"],
+                "img": "",
+                "contacts": [
+                    ["Shreeprada Divakar Bhat", "9482264276"]
+                ],
+                "link": "",
+                "rnr": ["The teams will be judged on the basis of predefined rubrics."],
+                "desc": "",
+                "name": "Tech Symposium",
+                "id": 20
+            }
+        ],
         "img": "https://imgur.com/UQKlWgi.jpg",
         "name": "Tech Events"
     },
@@ -924,7 +927,13 @@ module.exports = {
                 ["Prithviraj V", "9632531175"]
             ],
             "link": "",
-            "rnr": ["Each team can have 3-7 members.", "Instrumental Music is allowed and should be submitted half an hour before the event.", "Participants should follow the dress code for mime.", "No props allowed.", "Duration of the act is 6-8 minutes.", "Any vulgarity will lead to disqualification.", "Judge's decision is final."],
+            "rnr": [
+                "The short movie should be based on theme.",
+                "Languages allowed are English Hindi and kannada.",
+                "Plagiarism is strictly prohibited.",
+                "Judge's decision is final.",
+                "Teams are requested to submit their pen drives a day before the event."
+            ],
             "desc": "",
             "name": "Short movie making (Dashakada chitra) ",
             "id": 69
@@ -978,7 +987,7 @@ module.exports = {
             "img": "",
             "contacts": [
                 ["Harsha", "9741149249"]
-                
+
             ],
             "link": "",
             "rnr": [],
