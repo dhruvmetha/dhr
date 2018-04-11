@@ -228,18 +228,6 @@ module.exports = {
             "name": "Android App Development",
             "id": 17
         }, {
-            "fee": ["₹150 for a team of two"],
-            "prize": ["First Prize ₹1000"],
-            "img": "",
-            "contacts": [
-                ["Nikhil RS", "8277056746"]
-            ],
-            "link": "",
-            "rnr": ["Each team will be given a sensor and they will have to program it in a limited amount of time with specific conditions.", "The top four fastest teams will then be allowed to plant their portable sensor connections (bombs) within the college premises.", "Once they have places their sensors, the team members will move around trying to locate (diffuse) the sensors of other teams.", "At the end, the team left with the maximum number of sensors will be the winner."],
-            "desc": "",
-            "name": "Diffuse the Bomb",
-            "id": 18
-        }, {
             "fee": ["₹50"],
             "prize": ["First Prize ₹1000"],
             "img": "",
