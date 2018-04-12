@@ -43,10 +43,10 @@ app.get('/events/*', function(req, res, next) {
     }
 });
 
-app.get('/about-us', function(req, res) {
+app.get('/team', function(req, res) {
     app.locals.faculty = team.faculty;
     app.locals.core = team.core;
-    res.render("about-us");
+    res.render("team");
 });
 
 app.get('/register/*', function(req, res, next) {

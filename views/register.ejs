@@ -1,100 +1,97 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116236740-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-116236740-2');
-</script>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116236740-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-116236740-2');
+    </script>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="theme-color" content="brown">
-<meta name="apple-mobile-web-app-status-bar-style" content="brown">
+    <meta name="theme-color" content="brown">
+    <meta name="apple-mobile-web-app-status-bar-style" content="brown">
     <!-- Bootstrap CSS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <style type="text/css">
-    	.up{
-    		/*text-align: center;*/
-    		margin-top: 60px;
-    		/*line-height: 50px;*/
-    		font-family: sans-serif;
-    		background: rgba(1,2,3,0.7);
-    		padding: 50px;
-
-    	}
-    	body {
-      /*height: 100%;*/
-  background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
-  color: white;
-     background-position:top;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
-}
-.rules{
-	font-size: 35px;
-}
-@media only screen and (max-width: 600px) {
+        .up{
+            margin-top: 60px;
+            font-family: sans-serif;
+            background: rgba(1,2,3,0.7);
+            padding: 50px;
+    
+          }
+          body {
+            background-image:url(https://user-images.githubusercontent.com/11242541/38202593-e5b543f6-36b9-11e8-8893-9f492650f2fc.jpg);
+           color: white;
+         background-position:top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    
+    }
     .rules{
-	font-size: 20px;
-}
-.up{
-	padding:5px;
-	margin-top:0px;
-}
-}
+      font-size: 35px;
+    }
+    @media only screen and (max-width: 600px) {
+        .rules{
+      font-size: 20px;
+    }
+    .up{
+      padding:5px;
+      margin-top:0px;
+    }
+    }
     </style>
-<title><%= ename.toUpperCase() %> REGISTRATION | UTSAV</title>
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="../../icons/apple-touch-icon-57x57.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../icons/apple-touch-icon-114x114.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../icons/apple-touch-icon-72x72.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../icons/apple-touch-icon-144x144.png" />
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="../../icons/apple-touch-icon-60x60.png" />
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../icons/apple-touch-icon-120x120.png" />
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="../../icons/apple-touch-icon-76x76.png" />
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../icons/apple-touch-icon-152x152.png" />
-<link rel="icon" type="image/png" href="../../icons/favicon-196x196.png" sizes="196x196" />
-<link rel="icon" type="image/png" href="../../icons/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/png" href="../../icons/favicon-32x32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="../../icons/favicon-16x16.png" sizes="16x16" />
-<link rel="icon" type="image/png" href="../../icons/favicon-128.png" sizes="128x128" />
-<meta name="application-name" content="../../icons/&nbsp;"/>
-<meta name="msapplication-TileColor" content="../../icons/#FFFFFF" />
-<meta name="msapplication-TileImage" content="../../icons/mstile-144x144.png" />
-<meta name="msapplication-square70x70logo" content="../../icons/mstile-70x70.png" />
-<meta name="msapplication-square150x150logo" content="../../icons/mstile-150x150.png" />
-<meta name="msapplication-wide310x150logo" content="../../icons/mstile-310x150.png" />
-<meta name="msapplication-square310x310logo" content="../../icons/mstile-310x310.png" />
-  </head>
-  <body>
-  	<div class="container up">
-<p class="rules">
-Read all the instructions carefully before proceeding to PayTM.<br><br>
-1. Click the button below to pay the registration fee using PayTM.<br>
-<a target="_blank" href="https://paytm.com/education?op=BMS%20Centre%20for%20Executive%20Education&type=registration" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Pay using PayTM</a><br>
-2. On the PayTM portal, choose the Institute as <kbd>BMS Centre for Executive Education</kbd>.<br>
-3. Choose the Payment Type as <kbd>New Registration</kbd>.<br>
-4. Then choose the Fee Details as <kbd>Utsav Registration</kbd>.<br>
-5. Fill all the details given in the form with Event Name as <kbd><%= ename %></kbd> and pay an amount of <kbd><%= efee %></kbd>.<br>
-6. Note down the Order Number/Id after payment for further reference.
-</p>
+    <title>
+        <%= ename.toUpperCase() %> REGISTRATION | UTSAV</title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../../icons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../icons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../icons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="../../icons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="../../icons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../icons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="../../icons/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="../../icons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="../../icons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="../../icons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="../../icons/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="../../icons/&nbsp;" />
+    <meta name="msapplication-TileColor" content="../../icons/#FFFFFF" />
+    <meta name="msapplication-TileImage" content="../../icons/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="../../icons/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="../../icons/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="../../icons/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="../../icons/mstile-310x310.png" />
+</head>
+
+<body>
+    <div class="container up">
+        <p class="rules">
+            Read all the instructions carefully before proceeding to PayTM.<br><br> 1. Click the button below to pay the registration fee using PayTM.<br>
+            <a target="_blank" href="https://paytm.com/education?op=BMS%20Centre%20for%20Executive%20Education&type=registration" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Pay using PayTM</a><br> 2. On the PayTM portal, choose
+            the Institute as <kbd>BMS Centre for Executive Education</kbd>.<br> 3. Choose the Payment Type as <kbd>New Registration</kbd>.<br> 4. Then choose the Fee Details as <kbd>Utsav Registration</kbd>.<br> 5. Fill all the details given in the form
+            with Event Name as <kbd><%= ename %></kbd> and pay an amount of <kbd><%= efee %></kbd>.<br> 6. Note down the Order Number/Id after payment for further reference.
+        </p>
 
 
 
-</div>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+</body>
+
 </html>
