@@ -986,7 +986,7 @@ module.exports = {
             "id": 70
         }, {
             "fee": ["₹250"],
-            "prize": ["First Prize ₹5000", "Second Prize ₹2000"],
+            "prize": ["First Prize ₹5000", "Second Prize ₹2500", "Third Prize ₹1500"],
             "img": "",
             "contacts": [
                 ["Ashwin", "9743067056"]
