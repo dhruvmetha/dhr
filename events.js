@@ -769,10 +769,26 @@ module.exports = {
                 ["Yash", "7259789161"]
             ],
             "link": "",
-            "rnr": [],
+            "rnr": ["Single player fixtures will be made.", "Coordinators decision will be final.", "Hacking and other misconduct will not be entertained. Player will be disqualified."],
             "desc": "",
-            "name": "Road Rash",
-            "id": 55  
+            "name": "Mini Militia - M Sports",
+            "id": 74
+        },{
+                       "fee": ["₹50"],
+            "prize": ["Goodies for Winners"],
+            "img": "",
+            "contacts": [
+                ["Yash", "7259789161"]
+            ],
+            "link": "",
+            "rnr": ["One over game.",
+"Maximum runs wins.",
+"Fixtures are knock out.",
+"Goodies for winners.",
+"Need to register online with the given URL."],
+            "desc": "",
+            "name": "Go On Ultimate Cricket Champions - M Sports",
+            "id": 75 
         }],
         "img": "https://imgur.com/TWGWwK9.jpg",
         "name": "Respawn Gaming"
