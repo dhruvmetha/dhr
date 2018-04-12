@@ -689,7 +689,7 @@ module.exports = {
             "desc": "",
             "name": "Counter Strike GO",
             "id": 50
-        }, {
+        }, /*{
             "fee": ["₹300"],
             "prize": ["First Prize ₹20k worth", "Second Prize ₹10k worth"],
             "img": "",
@@ -701,7 +701,7 @@ module.exports = {
             "desc": "",
             "name": "Dota2",
             "id": 51
-        }, {
+        },*/ {
             "fee": ["₹150"],
             "prize": ["First Prize ₹8k worth", "Second Prize ₹4k worth"],
             "img": "",
@@ -713,7 +713,7 @@ module.exports = {
             "desc": "",
             "name": "Fifa 18",
             "id": 52
-        }, {
+        },/* {
             "fee": ["₹500"],
             "prize": ["First Prize ₹7000", "Second Prize ₹4000"],
             "img": "",
@@ -725,7 +725,7 @@ module.exports = {
             "desc": "",
             "name": "Laser Tag",
             "id": 53
-        }, {
+        },*/ {
             "fee": ["₹150"],
             "prize": ["First Prize ₹5k worth", "Second Prize ₹2k worth"],
             "img": "",
@@ -761,6 +761,18 @@ module.exports = {
             "desc": "",
             "name": "VR based experience",
             "id": 56
+        },{
+            "fee": ["₹50"],
+            "prize": ["First Prize ₹2000", "Second Prize ₹1000"],
+            "img": "",
+            "contacts": [
+                ["Yash", "7259789161"]
+            ],
+            "link": "",
+            "rnr": [],
+            "desc": "",
+            "name": "Road Rash",
+            "id": 55  
         }],
         "img": "https://imgur.com/TWGWwK9.jpg",
         "name": "Respawn Gaming"
@@ -859,7 +871,7 @@ module.exports = {
     "theatre-events": {
         "desc": "",
         "link": "",
-        "events": [{
+        "events": [/*{
             "fee": ["₹500"],
             "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
             "img": "",
@@ -871,7 +883,7 @@ module.exports = {
             "desc": "",
             "name": "Street Play (Aao Kabhi Nukkad Pe)",
             "id": 64
-        }, {
+        },*/ {
             "fee": ["₹150"],
             "prize": ["First Prize ₹2000", "Second Prize ₹1500"],
             "img": "",
@@ -907,7 +919,7 @@ module.exports = {
             "desc": "",
             "name": "Mad Ads (Ma-Addy Maniacs)",
             "id": 67
-        }, {
+        }, /*{
             "fee": ["₹500"],
             "prize": ["First Prize ₹5000", "Second Prize ₹2500"],
             "img": "",
@@ -919,7 +931,7 @@ module.exports = {
             "desc": "",
             "name": "Mime (Sound of silence)",
             "id": 68
-        }, {
+        }, */ {
             "fee": ["₹250"],
             "prize": ["First Prize ₹2500", "Second Prize ₹1500"],
             "img": "",
